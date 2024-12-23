@@ -1,2 +1,3 @@
 name = 'Ryan'
-print(name)
+statement = ' says I do not understand Python'
+print(name + statement)
