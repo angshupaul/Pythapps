@@ -1,5 +1,8 @@
 a = False
-if a == False:
+if a:
     print('It is True')
     print('Also this one')
-print('I an False')
+else:
+    print('It is False')
+
+print('This is all')
